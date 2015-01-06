@@ -1,21 +1,22 @@
 {
-  "name": "roots",
-  "version": "7.0.3",
-  "homepage": "http://roots.io",
-  "authors": [
-    "Ben Word <ben@benword.com>"
-  ],
-  "license": "MIT",
-  "private": true,
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "assets/vendor"
-  ],
-  "dependencies": {
-    "modernizr": "2.8.2",
-    "jquery": "1.11.1",
-    "bootstrap": "3.3.1",
-    "respond": "1.4.2"
-  }
+	"name": "fishermaster",
+	"version": "1.0.0",
+	"homepage": "http://fisherphx.net",
+	"authors": [
+		"Jason Geiger <http://twitter.com/jasonjgeiger>"
+	],
+	"license": "MIT",
+	"private": true,
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"assets/vendor"
+	],
+	"dependencies": {
+		"modernizr": ">= 2.7.2",
+		"html5shiv": "latest",
+		"jquery": ">= 2.1.0",
+		"foundation": ">= 5.3.3",
+		"respond": "1.4.2"
+	}
 }
